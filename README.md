@@ -1,1 +1,0 @@
-Prints out the current version of Django being used.
